@@ -1,4 +1,4 @@
-![alt tag](https://raw.githubusercontent.com/lateralblast/ottar/master/Freyja-and-Ottar.jpg)
+![alt tag](https://raw.githubusercontent.com/richardatlateralblast/ottar/master/Freyja-and-Ottar.jpg)
 
 OTTAR
 =====
