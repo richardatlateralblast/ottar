@@ -24,7 +24,7 @@ Creating OVF tar file for ESXi
 # rsync -au /usr/lib/vmware-ovftool/* /tmp/ovf/tools/
 # sed -i 's/bash/sh/' /tmp/ovf/tools/ovftool
 # cd /tmp
-# tar cf ovftools.tar ovf
-# gzip -9 ovftools.tar
+# tar cf vmware-ovftools.tar ovf
+# gzip -9 vmware-ovftools.tar
 ```
 
